@@ -1,0 +1,2 @@
+Cascade acts as a data controller when we collect and define the purpose for and control the means by which personal information is processed. For example, Cascade acts as a data controller when collecting customer feedback or information to improve our Services. Cascade acts as a data processor when we provide our Services to our Customers. When acting as a data processor, Cascade will only process personal information in accordance with a Customer’s instructions, Agreement, and this Privacy Policy.
+    
