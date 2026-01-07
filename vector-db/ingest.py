@@ -1,4 +1,4 @@
-from embeddings import get_embedding
+from embeddings_impl import get_embedding
 from db import collection
 
 def ingest():

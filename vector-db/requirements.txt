@@ -1,7 +1,8 @@
-fastapi 
-uvicorn 
-pymongo 
-requests 
-numpy 
-pytest 
+fastapi
+uvicorn
+pymongo
+requests
+numpy
+pytest
 pytest-mock
+python-dotenv
