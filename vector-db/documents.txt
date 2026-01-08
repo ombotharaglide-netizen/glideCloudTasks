@@ -1,2 +1,25 @@
-Cascade acts as a data controller when we collect and define the purpose for and control the means by which personal information is processed. For example, Cascade acts as a data controller when collecting customer feedback or information to improve our Services. Cascade acts as a data processor when we provide our Services to our Customers. When acting as a data processor, Cascade will only process personal information in accordance with a Customer’s instructions, Agreement, and this Privacy Policy.
-    
+Facebook restriction policies govern user activity on the Facebook platform. These policies regulate posts, comments, images, and videos shared by users. Facebook prohibits content involving hate speech, violent threats, explicit material, and coordinated harmful behavior. Enforcement actions include content removal, reduced reach, temporary account restrictions, or permanent account disabling.
+
+Facebook moderation systems rely on automated classifiers and human review teams to detect violations. Repeated policy breaches can impact account credibility and limit platform visibility.
+
+Twitter restriction policies are designed to protect public conversation integrity. Twitter limits abusive language, targeted harassment, impersonation, and malicious automation. Accounts engaging in coordinated manipulation or platform abuse may face tweet deletion, account locking, or suspension.
+
+Twitter also enforces platform rules related to spam campaigns and deceptive practices. Violations can result in reduced tweet distribution or permanent removal from the platform.
+
+Cascade policies define relational behavior between parent and child entities in structured systems. These policies determine how dependent records respond to changes in a controlling record.
+
+Cascade delete rules automatically remove dependent records when a primary record is deleted. This behavior is commonly applied in relational data models to maintain referential consistency.
+
+Cloud access control policies define permission boundaries for users and services in cloud environments. These policies specify which identities can perform operations on infrastructure components.
+
+Role-based access policies assign privileges based on predefined roles. This approach reduces unauthorized access and simplifies permission management in distributed systems.
+
+API throttling policies regulate request frequency from clients. These controls prevent system overload, reduce abuse, and ensure fair resource usage across applications.
+
+Rate limiting mechanisms enforce maximum request thresholds within defined time windows. Excess requests may be delayed or rejected to maintain service stability.
+
+Facebook enforces restrictions on coordinated inauthentic behavior to prevent manipulation of public discourse. Accounts involved in fake engagement, misleading identities, or organized influence campaigns may be removed to protect platform authenticity.
+
+Facebook advertising policies restrict promoted content that includes deceptive claims, prohibited products, or misleading political messaging. Advertisers must comply with transparency requirements, and violations can result in ad account suspension.
+
+Facebook restricts the use of automated tools that scrape data, generate fake interactions, or abuse platform features. Unauthorized automation can lead to feature limitations, account bans, or legal enforcement actions.

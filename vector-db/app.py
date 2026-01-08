@@ -3,14 +3,10 @@ from search import search
 
 app = FastAPI()
 
-@app.get("/")
-def home():
-    return {"message": "Simple Vector Search API running"}
-
 @app.post("/query")
 def query_vector(query: str):
-    result = search(query)
+    results = search(query, top_k=3)
     return {
         "query": query,
-        "answer": result
+        "results": results
     }
